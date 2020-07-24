@@ -1,1 +1,40 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    margin: 30px;
+    width: 100%;
+    font-family: cursive
+}
+
+button {
+    color: white;
+    height: 50px;
+    width: auto;
+    background: gray;
+    font-size: 30px;
+    word-wrap: normal;
+    border: none;
+    margin-left:10px;
+    border-radius: 0%;
+
+}
+
+button:hover {
+    background: orangered;
+    cursor: pointer;
+}
+
+div {
+    font-size: 40px;
+    margin: 20px;
+}
+
+h1 {
+    border-bottom: 3px solid red;
+    transform: translateY(3px);
+}
+
+h3{
+    color:olivedrab;
+    transform: translateY(3px);
+}
